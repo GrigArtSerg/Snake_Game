@@ -1,0 +1,18 @@
+E:\Artem\Программирование\Snake\Snake\bin\Debug\Snake.exe.config
+E:\Artem\Программирование\Snake\Snake\bin\Debug\Snake.exe
+E:\Artem\Программирование\Snake\Snake\bin\Debug\Snake.pdb
+E:\Artem\Программирование\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+E:\Artem\Программирование\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+E:\Artem\Программирование\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+E:\Artem\Программирование\Snake\Snake\obj\Debug\Snake.exe
+E:\Artem\Программирование\Snake\Snake\obj\Debug\Snake.pdb
+F:\Archaic Tome Folder\Artem\Programming\Snake\Snake\bin\Debug\Snake.exe.config
+F:\Archaic Tome Folder\Artem\Programming\Snake\Snake\bin\Debug\Snake.exe
+F:\Archaic Tome Folder\Artem\Programming\Snake\Snake\bin\Debug\Snake.pdb
+F:\Archaic Tome Folder\Artem\Programming\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+F:\Archaic Tome Folder\Artem\Programming\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+F:\Archaic Tome Folder\Artem\Programming\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+F:\Archaic Tome Folder\Artem\Programming\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+F:\Archaic Tome Folder\Artem\Programming\Snake\Snake\obj\Debug\Snake.exe
+F:\Archaic Tome Folder\Artem\Programming\Snake\Snake\obj\Debug\Snake.pdb
+F:\Archaic Tome Folder\Artem\Programming\Snake\Snake\obj\Debug\Example.Program.resources
